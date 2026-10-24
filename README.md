@@ -68,45 +68,45 @@ Explore open-source 3D solutions, CC0 public domain repositories, procedural tex
 
 ### ⭐ Featured Open-Source Projects
 
-1. **[glTF](https://github.com/KhronosGroup/glTF)** [![GitHub Stars](https://img.shields.io/github/stars/KhronosGroup/glTF?style=social&color=white)](https://github.com/KhronosGroup/glTF/stargazers)  
+1. **[glTF](https://github.com/KhronosGroup/glTF)** [![GitHub_Stars](https://img.shields.io/github/stars/KhronosGroup/glTF?style=social&color=white)](https://github.com/KhronosGroup/glTF/stargazers)  
    **The 3D runtime asset delivery standard (~7,869 stars).** The official specification, JSON schema, and ecosystem documentation for glTF 2.0 (the "JPEG of 3D"). Governed by the Khronos Group, it defines the transmission standard for models, materials (PBR), animations, and morph targets across WebGL, WebXR, Unreal Engine, Unity, Godot, and Three.js.
 
-2. **[NASA 3D Resources](https://github.com/nasa/NASA-3D-Resources)** [![GitHub Stars](https://img.shields.io/github/stars/nasa/NASA-3D-Resources?style=social&color=white)](https://github.com/nasa/NASA-3D-Resources/stargazers)  
+2. **[NASA 3D Resources](https://github.com/nasa/NASA-3D-Resources)** [![GitHub_Stars](https://img.shields.io/github/stars/nasa/NASA-3D-Resources?style=social&color=white)](https://github.com/nasa/NASA-3D-Resources/stargazers)  
    **NASA's public domain 3D model and texture repository (~3,831 stars).** An extensive open repository containing spacecraft, lunar landing modules, asteroids, astronauts, and celestial terrain models directly from NASA missions. All models are open-access and free for public, academic, and commercial application.
 
-3. **[glTF Sample Models](https://github.com/KhronosGroupArchives/glTF-Sample-Models)** [![GitHub Stars](https://img.shields.io/github/stars/KhronosGroupArchives/glTF-Sample-Models?style=social&color=white)](https://github.com/KhronosGroupArchives/glTF-Sample-Models/stargazers)  
+3. **[glTF Sample Models](https://github.com/KhronosGroupArchives/glTF-Sample-Models)** [![GitHub_Stars](https://img.shields.io/github/stars/KhronosGroupArchives/glTF-Sample-Models?style=social&color=white)](https://github.com/KhronosGroupArchives/glTF-Sample-Models/stargazers)  
    **Khronos Group's reference 3D model library (~3,611 stars).** Comprehensive canonical collection of glTF 2.0 and GLB models designed for testing engine rendering fidelity, PBR material extensions (Clearcoat, Transmission, Sheen, Volume), and procedural animations.
 
-4. **[Poly Haven Assets](https://github.com/Poly-Haven/polyhavenassets)** [![GitHub Stars](https://img.shields.io/github/stars/Poly-Haven/polyhavenassets?style=social&color=white)](https://github.com/Poly-Haven/polyhavenassets/stargazers)  
+4. **[Poly Haven Assets](https://github.com/Poly-Haven/polyhavenassets)** [![GitHub_Stars](https://img.shields.io/github/stars/Poly-Haven/polyhavenassets?style=social&color=white)](https://github.com/Poly-Haven/polyhavenassets/stargazers)  
    **The CC0 public asset gold standard (~532 stars).** Code, metadata schemas, and tools powering [Poly Haven](https://polyhaven.com/)—the premier community library of 16K HDRIs, 8K PBR photogrammetry surfaces, and realistic 3D models. **100% CC0 (Public Domain)**, usable freely for any purpose without licensing restrictions, attribution requirements, or paywalls.
 
-5. **[BlenderKit](https://github.com/BlenderKit/Blendkit)** [![GitHub Stars](https://img.shields.io/github/stars/BlenderKit/Blendkit?style=social&color=white)](https://github.com/BlenderKit/Blendkit/stargazers)  
+5. **[BlenderKit](https://github.com/BlenderKit/Blendkit)** [![GitHub_Stars](https://img.shields.io/github/stars/BlenderKit/Blendkit?style=social&color=white)](https://github.com/BlenderKit/Blendkit/stargazers)  
    **In-viewport 3D asset library for Blender (~283 stars).** Open-source Blender extension providing access to thousands of community models, materials, brushes, and HDRIs directly within Blender's 3D viewport. Includes drag-and-drop mechanics, automated license tracking, and search filtering.
 
-6. **[open-source-3D-assets](https://github.com/ToxSam/open-source-3D-assets)** [![GitHub Stars](https://img.shields.io/github/stars/ToxSam/open-source-3D-assets?style=social&color=white)](https://github.com/ToxSam/open-source-3D-assets/stargazers)  
+6. **[open-source-3D-assets](https://github.com/ToxSam/open-source-3D-assets)** [![GitHub_Stars](https://img.shields.io/github/stars/ToxSam/open-source-3D-assets?style=social&color=white)](https://github.com/ToxSam/open-source-3D-assets/stargazers)  
    **Structured CC0 3D metaverse asset registry (~170 stars).** Curated, API-friendly registry and metadata directory indexing 990+ CC0-licensed GLB models, avatars, and interactive items tailored for WebGL games, metaverse worlds, and automated 3D asset pipelines.
 
-7. **[Polydown](https://github.com/agmmnn/polydown)** [![GitHub Stars](https://img.shields.io/github/stars/agmmnn/polydown?style=social&color=white)](https://github.com/agmmnn/polydown/stargazers)  
+7. **[Polydown](https://github.com/agmmnn/polydown)** [![GitHub_Stars](https://img.shields.io/github/stars/agmmnn/polydown?style=social&color=white)](https://github.com/agmmnn/polydown/stargazers)  
    **Automated command-line 3D asset downloader (~107 stars).** Fast CLI utility for batch downloading high-resolution HDRIs, textures, and 3D models from Poly Haven with customizable resolution limits, format targets, and folder organization.
 
-8. **[Icosa Gallery](https://github.com/icosa-foundation/icosa-gallery)** [![GitHub Stars](https://img.shields.io/github/stars/icosa-foundation/icosa-gallery?style=social&color=white)](https://github.com/icosa-foundation/icosa-gallery/stargazers)  
+8. **[Icosa Gallery](https://github.com/icosa-foundation/icosa-gallery)** [![GitHub_Stars](https://img.shields.io/github/stars/icosa-foundation/icosa-gallery?style=social&color=white)](https://github.com/icosa-foundation/icosa-gallery/stargazers)  
    **Open-source successor to Google Poly (~31 stars).** Apache 2.0 licensed web platform for hosting, displaying, and distributing interactive 3D assets and VR content. Developed by the Icosa Foundation (creators of Open Brush) with WebGL embedding, model conversion, and Godot/Blender API integrations.
 
-9. **[3Dēx](https://github.com/Schryzon/3Dex)** [![GitHub Stars](https://img.shields.io/github/stars/Schryzon/3Dex?style=social&color=white)](https://github.com/Schryzon/3Dex/stargazers)  
+9. **[3Dēx](https://github.com/Schryzon/3Dex)** [![GitHub_Stars](https://img.shields.io/github/stars/Schryzon/3Dex?style=social&color=white)](https://github.com/Schryzon/3Dex/stargazers)  
    **AI-assisted 3D asset marketplace & print platform (~5 stars).** Full-stack web application connecting 3D creators, buyers, and print manufacturers. Built with **Next.js, Node.js, PostgreSQL, MinIO, and pgvector**, featuring WebGL model inspection, vector semantic search, and creator dashboards.
 
-10. **[3D RGB (3DMeta-Shop)](https://github.com/iranpsc/3DMeta-Shop-Object-3D)** [![GitHub Stars](https://img.shields.io/github/stars/iranpsc/3DMeta-Shop-Object-3D?style=social&color=white)](https://github.com/iranpsc/3DMeta-Shop-Object-3D/stargazers)  
+10. **[3D RGB (3DMeta-Shop)](https://github.com/iranpsc/3DMeta-Shop-Object-3D)** [![GitHub_Stars](https://img.shields.io/github/stars/iranpsc/3DMeta-Shop-Object-3D?style=social&color=white)](https://github.com/iranpsc/3DMeta-Shop-Object-3D/stargazers)  
     **Self-hosted 3D marketplace engine (~2 stars).** Production-ready eCommerce web platform for selling 3D models, game characters, textures, and digital renders. Built with **Laravel, Blade, and Tailwind CSS**, featuring shopping carts, customer download portals, and role-based access control.
 
 ---
 
 ### 🛠️ Additional Open-Source Repositories & Tools
 
-- **[Material Maker](https://github.com/RodZill4/material-maker)** [![GitHub Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers) — Procedural PBR texture authoring and 3D model painting suite built on Godot engine (~6,016 stars).
-- **[Model-Viewer](https://github.com/google/model-viewer)** [![GitHub Stars](https://img.shields.io/github/stars/google/model-viewer?style=social&color=white)](https://github.com/google/model-viewer/stargazers) — Google's web component for rendering interactive 3D models and AR on the web (~8,291 stars).
-- **[Online 3D Viewer](https://github.com/kovacsv/Online3DViewer)** [![GitHub Stars](https://img.shields.io/github/stars/kovacsv/Online3DViewer?style=social&color=white)](https://github.com/kovacsv/Online3DViewer/stargazers) — Zero-dependency web solution to inspect 3D files (glTF, OBJ, STL, 3DS, FBX, DXF) in browsers (~3,737 stars).
-- **[M3 CharacterStudio](https://github.com/M3-org/CharacterStudio)** [![GitHub Stars](https://img.shields.io/github/stars/M3-org/CharacterStudio?style=social&color=white)](https://github.com/M3-org/CharacterStudio/stargazers) — Open-source web-based customizable VRM 3D avatar creator and asset pipeline (~115 stars).
-- **[ambientCG Importer](https://github.com/z3lx/acg-importer)** [![GitHub Stars](https://img.shields.io/github/stars/z3lx/acg-importer?style=social&color=white)](https://github.com/z3lx/acg-importer/stargazers) — Unity editor tool to download and import CC0 PBR textures and materials directly from ambientCG into Unity projects (~17 stars).
+- **[Material Maker](https://github.com/RodZill4/material-maker)** [![GitHub_Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers) — Procedural PBR texture authoring and 3D model painting suite built on Godot engine (~6,016 stars).
+- **[Model-Viewer](https://github.com/google/model-viewer)** [![GitHub_Stars](https://img.shields.io/github/stars/google/model-viewer?style=social&color=white)](https://github.com/google/model-viewer/stargazers) — Google's web component for rendering interactive 3D models and AR on the web (~8,291 stars).
+- **[Online 3D Viewer](https://github.com/kovacsv/Online3DViewer)** [![GitHub_Stars](https://img.shields.io/github/stars/kovacsv/Online3DViewer?style=social&color=white)](https://github.com/kovacsv/Online3DViewer/stargazers) — Zero-dependency web solution to inspect 3D files (glTF, OBJ, STL, 3DS, FBX, DXF) in browsers (~3,737 stars).
+- **[M3 CharacterStudio](https://github.com/M3-org/CharacterStudio)** [![GitHub_Stars](https://img.shields.io/github/stars/M3-org/CharacterStudio?style=social&color=white)](https://github.com/M3-org/CharacterStudio/stargazers) — Open-source web-based customizable VRM 3D avatar creator and asset pipeline (~115 stars).
+- **[ambientCG Importer](https://github.com/z3lx/acg-importer)** [![GitHub_Stars](https://img.shields.io/github/stars/z3lx/acg-importer?style=social&color=white)](https://github.com/z3lx/acg-importer/stargazers) — Unity editor tool to download and import CC0 PBR textures and materials directly from ambientCG into Unity projects (~17 stars).
 
 ---
 
